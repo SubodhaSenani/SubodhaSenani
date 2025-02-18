@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **frontend development projects** and contributing to **open-source repositories**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **JavaScript, React, or anything frontend-related**.
-- 📫 How to reach me: **subodhasenani2002@gmail.com** (replace with your actual email).
+- 📫 How to reach me: **subodhasenani2002@gmail.com** .
 - ⚡ Fun fact: I love coding while listening to lo-fi music 🎧.
 
 ---
@@ -110,8 +110,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=subodhasenani&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://github.com/subodhasenani/subodhasenani/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
