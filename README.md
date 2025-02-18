@@ -13,11 +13,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **frontend development projects**.
+- 🔭 I’m currently working on **frontend development projects** and contributing to **open-source repositories**.
 - 🌱 I’m currently learning **advanced React and TypeScript**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **JavaScript, React, or anything frontend-related**.
-- 📫 How to reach me: **subodhasenani@example.com** (replace with your actual email).
+- 📫 How to reach me: **subodhasenani2002@gmail.com** (replace with your actual email).
 - ⚡ Fun fact: I love coding while listening to lo-fi music 🎧.
 
 ---
