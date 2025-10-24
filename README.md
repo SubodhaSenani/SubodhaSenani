@@ -1,99 +1,84 @@
-<h1 align="center">Hi 👋, I'm Subodha Senani</h1>
-<h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Subodha Senani</span></h1>
+<h3 align="center">💻 Frontend Developer | React Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
+  <a href="https://subodhasenani.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23007acc.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:subodhasenani2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/subodhasenani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/subodhasenani">
-    <img src="https://komarev.com/ghpvc/?username=subodhasenani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/subodhasenani?tab=followers">
-    <img src="https://img.shields.io/github/followers/subodhasenani?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/subodhasenani?label=Follow&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **frontend development projects** and contributing to **open-source repositories**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **JavaScript, React, or anything frontend-related**.
-- 📫 How to reach me: **subodhasenani2002@gmail.com** .
-- ⚡ Fun fact: I love coding while listening to lo-fi music 🎧.
+### 🌟 About Me
+
+I'm **Subodha Senani**, a passionate **Frontend Developer** from **Sri Lanka** who loves crafting visually appealing and user-friendly web interfaces.  
+I specialize in building responsive and interactive websites using **React.js**, **Tailwind CSS**, and **modern JavaScript frameworks**.
+
+🚀 **What I Do:**
+- Build dynamic, responsive websites and web apps.
+- Create intuitive UI/UX designs using Figma and modern frameworks.
+- Collaborate on team projects via GitHub and contribute to open-source.
+- Continuously explore new technologies and tools to enhance user experiences.
+
+💬 **Ask me about:** React, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap, and Frontend Architecture.
+
+📫 **Reach me at:** [subodhasenani2002@gmail.com](mailto:subodhasenani2002@gmail.com)
+
+⚡ **Fun fact:** I love designing clean interfaces and coding while listening to lo-fi beats 🎧
 
 ---
 
+### 🧩 Tech Stack
 
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subodhasenani&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subodhasenani&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,php,laravel,mysql,git,figma,vscode,postman,java" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subodhasenani&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subodhasenani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhasenani&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subodhasenani&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 🖥️ Featured Projects
+
+Here are a few projects that reflect my skills and creativity:
+
+- 🎨 [**Portfolio Website**](https://subodhasenani.github.io/Portfolio): Personal portfolio built using React.js and Tailwind CSS.
+- 🍽️ [**Restaurant App (Food)**](https://github.com/subodhasenani/Food): Laravel-based restaurant management web app.
+- 💰 [**Micro Finance App**](https://github.com/subodhasenani/MicroFinanceApp): Manage loans, payments, and clients efficiently.
+- 📊 [**Debitrack Admin**](https://github.com/subodhasenani/Debitrack-Admin): Admin dashboard built with React, Redux, and Material UI.
+
+---
+
+### ✨ Quote I Live By
+> “Code is like art — the cleaner it is, the more beautiful it feels.”  
+
+---
+
+<p align="center">💡 <b>Let's build something amazing together!</b></p>
+<p align="center">
+  <a href="https://subodhasenani.github.io/Portfolio" target="_blank">🌐 Visit My Portfolio</a>
+</p>
