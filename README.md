@@ -40,7 +40,7 @@ I specialize in building responsive and interactive websites using **React.js**,
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,php,laravel,mysql,git,figma,vscode,postman,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,php,laravel,mysql,git,figma,vscode,java" />
 </p>
 
 ---
