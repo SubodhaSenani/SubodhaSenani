@@ -62,16 +62,7 @@ I specialize in building responsive and interactive websites using **React.js**,
 
 ---
 
-### 🖥️ Featured Projects
 
-Here are a few projects that reflect my skills and creativity:
-
-- 🎨 [**Portfolio Website**](https://subodhasenani.github.io/Portfolio): Personal portfolio built using React.js and Tailwind CSS.
-- 🍽️ [**Restaurant App (Food)**](https://github.com/subodhasenani/Food): Laravel-based restaurant management web app.
-- 💰 [**Micro Finance App**](https://github.com/subodhasenani/MicroFinanceApp): Manage loans, payments, and clients efficiently.
-- 📊 [**Debitrack Admin**](https://github.com/subodhasenani/Debitrack-Admin): Admin dashboard built with React, Redux, and Material UI.
-
----
 
 ### ✨ Quote I Live By
 > “Code is like art — the cleaner it is, the more beautiful it feels.”  
